@@ -1,3 +1,7 @@
 抓取mest.io的数据存redis,mysql
 
-使用方法：参照getMestioFeed.py
+使用方法：
+1.新建数据库crypto_db，再执行tables.sql
+2.再运行python3 getMestioFeed.py
+
+使用方法参照：getMestioFeed.py
